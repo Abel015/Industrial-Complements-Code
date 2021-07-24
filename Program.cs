@@ -6,7 +6,7 @@ namespace Industrial_Complements_Code
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Puto miki");
         }
     }
 }
